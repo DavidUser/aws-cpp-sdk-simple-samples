@@ -1,0 +1,5 @@
+./aws-sdk-cpp
+**/build
+**/.ycm_extra_conf.py
+aws-sdk-cpp/build
+aws-sdk-cpp/out
